@@ -1,4 +1,4 @@
-# Scandinavian Flavor Networks Research (Under Professor Tangherlini, UC Berkeley)
+# Scandinavian Flavor Networks (u. Professor Tangherlini, UC Berkeley)
 
 > **Note:** This repository is for showcasing the research workflow and technologies used.  
 > The actual code, data, and trained models are private due to research and IP restrictions.
