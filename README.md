@@ -52,16 +52,6 @@ The pipeline processes scanned cookbook PDFs, extracts and translates recipes, m
 - Regional comparisons revealing how Sweden, Norway, and Denmark differ in their ingredient preferences.
 - Embedding visualizations showing clustering of similar flavor profiles.
 
----
-
-## Repository Layout
-
-| File / Folder          | Purpose                                |
-|-----------------------|----------------------------------------|
-| `README.md`           | This overview document                 |
-| `methodology/`        | (Optional) Diagrams and pseudocode steps |
-| `docs/`               | Presentation slides or papers (if public) |
-
 *(The actual scripts are private — see `PRIVATE_REPO.md` for internal structure if you have access.)*
 
 ---
@@ -85,8 +75,8 @@ The pipeline processes scanned cookbook PDFs, extracts and translates recipes, m
 
 ## Author and Attribution
 
-Developed by **[Your Name]** as part of a research project on computational gastronomy.  
-For questions or collaboration, reach out via [LinkedIn](https://linkedin.com/in/your-profile).
+Developed by **[The Flavor Networks Team]** as part of a research project on computational gastronomy.  
+For questions or collaboration, reach out via [LinkedIn](https://linkedin.com/in/mromundset).
 
 This repository is shared under a **CC BY-NC 4.0** license — you may share and adapt the methodology for non-commercial use with attribution.
 
