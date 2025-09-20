@@ -1,4 +1,4 @@
-# Scandinavian Flavor Networks (u. Professor Tangherlini, UC Berkeley)
+# Scandinavian Flavor Networks
 
 > **Note:** This repository is for showcasing the research workflow and technologies used.  
 > The actual code, data, and trained models are private due to research and IP restrictions.
@@ -7,8 +7,7 @@
 
 ## Overview
 
-This project explores how flavor compounds have evolved across time and region in Scandinavian cuisine.  
-The pipeline processes scanned cookbook PDFs, extracts and translates recipes, maps ingredients to a flavor compound database, and produces insights through neural network models.
+This project explores how flavor compounds have evolved across time and region in Scandinavian cuisine. The team is supervised by Professor Tangherlini (UC Berkeley), and consists of both undergraduate and graduate students. The pipeline processes scanned cookbook PDFs, extracts and translates recipes, maps ingredients to a flavor compound database, and produces insights through neural network models.
 
 ---
 
