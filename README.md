@@ -9,6 +9,8 @@
 
 This project explores how flavor compounds have evolved across time and region in Scandinavian cuisine. The team is supervised by Professor Tangherlini (UC Berkeley), and consists of both undergraduate and graduate students. The pipeline processes scanned cookbook PDFs, extracts and translates recipes, maps ingredients to a flavor compound database, and produces insights through neural network models.
 
+Here is an interview I performed in regards to the project: [Interview](https://artshumanities.berkeley.edu/news/flavor-network-project-and-one-students-tracking-scandinavian-cuisine-data-science)
+
 ---
 
 ## Methodology
