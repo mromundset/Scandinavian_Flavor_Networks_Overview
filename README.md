@@ -76,7 +76,7 @@ The pipeline processes scanned cookbook PDFs, extracts and translates recipes, m
 ## Author and Attribution
 
 Developed by **[The Flavor Networks Team]** as part of a research project on computational gastronomy.  
-For questions or collaboration, reach out via [LinkedIn](https://linkedin.com/in/mromundset).
+For questions or collaboration, reach out via [LinkedIn](https://linkedin.com/in/romundset).
 
 This repository is shared under a **CC BY-NC 4.0** license — you may share and adapt the methodology for non-commercial use with attribution.
 
